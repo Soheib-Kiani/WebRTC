@@ -34,7 +34,7 @@ It doesn’t contain.
 ---
 
 ### Folder & File structure :
-todo <br>
+WebRTC <br>
 │ ───package.json # npm dependencies and run scripts <br>
 │ ───Readme.md # Documentation <br>
 │─── server. js # Contain app configuration <br>
