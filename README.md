@@ -34,14 +34,14 @@ It doesn’t contain.
 ---
 
 ### Folder & File structure :
-todo
-│ ───package.json # npm dependencies and run scripts
-│ ───Readme.md # Documentation
-│─── server. js # Contain app configuration
-│ ───public # Main application folder
-│ ├───script.js # Main operations
-│ ───view # view model
-│ ├───page.ejs #view engine
+todo <br>
+│ ───package.json # npm dependencies and run scripts <br>
+│ ───Readme.md # Documentation <br>
+│─── server. js # Contain app configuration <br>
+│ ───public # Main application folder <br>
+│ ├───script.js # Main operations <br>
+│ ───view # view model <br>
+│ ├───page.ejs #view engine <br>
 
 ---
 
